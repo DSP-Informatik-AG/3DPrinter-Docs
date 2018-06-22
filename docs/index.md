@@ -1,6 +1,6 @@
 # Informatik AG 3D Printer Documentation
 
-Welcome to the documentation for the Informatik AG 3D printer!
+Welcome to the documentation for the DSP Informatik AG 3D printer!
 
 ## Documentation maintainers
 
