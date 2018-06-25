@@ -21,9 +21,7 @@ Welcome to the documentation for the DSP Informatik AG 3D printer!
   - [Components overview]()
   - [Troubleshooting]()
 
-### [Printer Software]()
-  - [Slic3r Configurations]()
-  - [Obtaining the firmware code]()
-  - [Modifying the firmware code]()
-  - [Installing the firmware]()
-  - [Troubleshooting]()
+### [Firmware](Firmware.md)
+- [A word on the GPLv3](Firmware.md#a-word-on-the-gplv3)
+- [Obtaining the firmware](Firmware.md#obtaining-the-firmware)
+- [Firmware overview](Firmware.md#firmware-overview)

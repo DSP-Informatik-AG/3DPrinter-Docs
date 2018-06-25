@@ -3,5 +3,6 @@ site_name: Informatik AG 3D Printer Documentation
 pages:
     - Home: index.md
     - Usage: Usage.md
+    - Firmware: Firmware.md
 
 theme: readthedocs
