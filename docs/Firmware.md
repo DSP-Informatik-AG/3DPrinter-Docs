@@ -8,6 +8,7 @@
 	- [Configuration.h](#configurationh)
 	- [pins_RAMPS.h](#pinsrampsh)
 	- [Marlin_main.cpp](#marlinmaincpp)
+- [Flashing the firmware](#flashing-the-firmware)
 
 ## A word on the GPLv3
 
@@ -121,3 +122,10 @@ To define the nozzle offset from its actual position, modify the following param
 ```
 
 Where `2.4` is currently the offset in mm.
+
+
+## Flashing the firmware
+
+To flash the firmware, we highly recommend to make use of the [Platformio IDE](https://platformio.org/platformio-ide), an integrated development environment for IoT and embedded systems, that runs on top of the open source Atom editor. Alternatively you may use the [Official Arduino IDE](https://www.arduino.cc/en/Main/Software?).
+
+Simply import the firmware repository into the Arduino compatible IDE of your choice, and flash it from there. In order to flash the firmware onto the Arduino chip, it should not be reserved by any other software such as Pronterface. After the flash has succeeded, the printer is ready to be used with the new firmware installed.
